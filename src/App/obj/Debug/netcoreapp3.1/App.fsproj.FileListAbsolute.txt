@@ -1,0 +1,3 @@
+/home/daniel/projectfsharp/src/App/obj/Debug/netcoreapp3.1/App.fsprojAssemblyReference.cache
+/home/daniel/projectfsharp/src/App/obj/Debug/netcoreapp3.1/App.AssemblyInfoInputs.cache
+/home/daniel/projectfsharp/src/App/obj/Debug/netcoreapp3.1/App.AssemblyInfo.fs
