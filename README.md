@@ -1,5 +1,11 @@
 # hada
+# Winmdows 10 Ubuntui aus dem Store Installieren
+# Dann kommt fix ein fehler -> hier fehlen die Featuren Windows Linux Subsystem
+# einfach Windows Features aktivieren und deaktivieren wählen
+# dor Windows-Subsystem für Linux anhackln.. dann gehts
 
+
+# das hier muss so installiert werden 
 wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
 
@@ -23,8 +29,8 @@ dann mkdir ordner machen
 und dort dann folgendes ausführen
 
 
-#---------------------------------------------------------------------
-#wobei wenn man nur eine file hat kann man sich die solution auch schenken
+# ---------------------------------------------------------------------
+# wobei wenn man nur eine file hat kann man sich die solution auch schenken
 
 
 dotnet new sln -o NAMEDERAPP
