@@ -1,8 +1,0 @@
-nuget FShade.Imperative 4.3.9
-nuget Aardvark.Base 4.5.15
-nuget Aardvark.Base.FSharp 4.5.15
-nuget Aardvark.Base.Incremental 4.5.15
-nuget FShade.Core 4.3.9
-nuget FShade 4.3.9
-nuget FShade.GLSL 4.3.9
-nuget Aardvark.Base.Rendering 4.5.11
